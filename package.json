@@ -1,0 +1,25 @@
+{
+  "name": "begginer-git-javascript-node",
+  "version": "0.0.1",
+  "description": "begginer-git-javascript-node - this is a repo to help people get started with git , java-script and node in general idea comes form the nairobi js community and will be actively mentained members from the community, to help oothers come on board\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BransonGitomeh/begginer-git-javascript-node%20l.git"
+  },
+  "keywords": [
+    "git",
+    "node",
+    "begginner",
+    "javascript"
+  ],
+  "author": "BransonGitomeh / http://nairobijs.github.io/",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BransonGitomeh/begginer-git-javascript-node%20l/issues"
+  },
+  "homepage": "https://github.com/BransonGitomeh/begginer-git-javascript-node%20l#readme"
+}
